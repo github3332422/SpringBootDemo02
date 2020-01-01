@@ -1,0 +1,120 @@
+2020-01-01 12:21:25,848 - Starting LuckymoneyApplication on WozkiShude with PID 11160 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 12:21:25,852 - No active profile set, falling back to default profiles: default
+2020-01-01 12:21:26,765 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 12:21:26,842 - Finished Spring Data repository scanning in 67ms. Found 1 JPA repository interfaces.
+2020-01-01 12:21:27,192 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 12:21:27,634 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 12:21:27,643 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:21:27,644 - Starting service [Tomcat]
+2020-01-01 12:21:27,644 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 12:21:27,753 - Initializing Spring embedded WebApplicationContext
+2020-01-01 12:21:27,753 - Root WebApplicationContext: initialization completed in 1780 ms
+2020-01-01 12:21:28,016 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 12:21:28,081 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 12:21:28,189 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 12:21:28,275 - HikariPool-1 - Starting...
+2020-01-01 12:21:28,276 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 12:21:29,312 - HikariPool-1 - Start completed.
+2020-01-01 12:21:29,330 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 12:21:30,123 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 12:21:30,131 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 12:21:30,784 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 12:21:31,064 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 12:21:31,174 - Adding welcome page template: index
+2020-01-01 12:21:31,517 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:21:31,542 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 12:21:31,544 - Started LuckymoneyApplication in 6.431 seconds (JVM running for 7.624)
+2020-01-01 12:21:59,490 - Starting LuckymoneyApplication on WozkiShude with PID 19016 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 12:21:59,494 - No active profile set, falling back to default profiles: default
+2020-01-01 12:22:00,389 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 12:22:00,465 - Finished Spring Data repository scanning in 65ms. Found 1 JPA repository interfaces.
+2020-01-01 12:22:00,826 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 12:22:01,310 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 12:22:01,318 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:22:01,319 - Starting service [Tomcat]
+2020-01-01 12:22:01,319 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 12:22:01,428 - Initializing Spring embedded WebApplicationContext
+2020-01-01 12:22:01,428 - Root WebApplicationContext: initialization completed in 1874 ms
+2020-01-01 12:22:01,689 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 12:22:01,754 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 12:22:01,865 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 12:22:01,959 - HikariPool-1 - Starting...
+2020-01-01 12:22:01,960 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 12:22:03,215 - HikariPool-1 - Start completed.
+2020-01-01 12:22:03,255 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 12:22:04,039 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 12:22:04,049 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 12:22:04,761 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 12:22:05,048 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 12:22:05,148 - Adding welcome page template: index
+2020-01-01 12:22:05,465 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:22:05,488 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 12:22:05,490 - Started LuckymoneyApplication in 6.807 seconds (JVM running for 7.964)
+2020-01-01 12:23:39,117 - Starting LuckymoneyApplication on WozkiShude with PID 6924 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 12:23:39,120 - No active profile set, falling back to default profiles: default
+2020-01-01 12:23:40,041 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 12:23:40,131 - Finished Spring Data repository scanning in 76ms. Found 1 JPA repository interfaces.
+2020-01-01 12:23:40,558 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 12:23:41,040 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 12:23:41,048 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:23:41,049 - Starting service [Tomcat]
+2020-01-01 12:23:41,049 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 12:23:41,148 - Initializing Spring embedded WebApplicationContext
+2020-01-01 12:23:41,149 - Root WebApplicationContext: initialization completed in 1948 ms
+2020-01-01 12:23:41,397 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 12:23:41,461 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 12:23:41,568 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 12:23:41,657 - HikariPool-1 - Starting...
+2020-01-01 12:23:41,658 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 12:23:42,643 - HikariPool-1 - Start completed.
+2020-01-01 12:23:42,669 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 12:23:43,434 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 12:23:43,441 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 12:23:44,128 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 12:23:44,401 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 12:23:44,510 - Adding welcome page template: index
+2020-01-01 12:23:44,864 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:23:44,895 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 12:23:44,899 - Started LuckymoneyApplication in 6.574 seconds (JVM running for 7.772)
+2020-01-01 12:24:55,597 - Starting LuckymoneyApplication on WozkiShude with PID 18184 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 12:24:55,602 - No active profile set, falling back to default profiles: default
+2020-01-01 12:24:56,699 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 12:24:56,848 - Finished Spring Data repository scanning in 129ms. Found 1 JPA repository interfaces.
+2020-01-01 12:24:57,567 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 12:24:58,088 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 12:24:58,098 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:24:58,098 - Starting service [Tomcat]
+2020-01-01 12:24:58,099 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 12:24:58,204 - Initializing Spring embedded WebApplicationContext
+2020-01-01 12:24:58,204 - Root WebApplicationContext: initialization completed in 2526 ms
+2020-01-01 12:24:58,468 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 12:24:58,533 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 12:24:58,641 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 12:24:58,746 - HikariPool-1 - Starting...
+2020-01-01 12:24:58,747 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 12:24:59,842 - HikariPool-1 - Start completed.
+2020-01-01 12:24:59,863 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 12:25:00,672 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 12:25:00,680 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 12:25:01,335 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 12:25:01,688 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 12:25:01,811 - Adding welcome page template: index
+2020-01-01 12:25:02,112 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 12:25:02,136 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 12:25:02,138 - Started LuckymoneyApplication in 7.359 seconds (JVM running for 8.671)
+2020-01-01 12:25:21,706 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-01 12:25:21,706 - Initializing Servlet 'dispatcherServlet'
+2020-01-01 12:25:21,733 - Completed initialization in 21 ms
+2020-01-01 12:25:21,767 - url=http://127.0.0.1:8088/luckymoney/hello
+2020-01-01 12:25:21,767 - method=GET
+2020-01-01 12:25:21,767 - ip=127.0.0.1
+2020-01-01 12:25:21,769 - class_method=com.example.luckymoney.controller.HelloController.say
+2020-01-01 12:25:21,769 - args={}
+2020-01-01 12:25:21,776 - 
+
+2020-01-01 12:25:21,777 - response=minMoney:1maxMoney:999说明: 最少要发1元,最多要发999元
+2020-01-01 12:30:16,592 - Starting LuckymoneyApplication on WozkiShude with PID 4456 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 12:30:16,596 - No active profile set, falling back to default profiles: default
+2020-01-01 12:30:17,424 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 12:30:17,509 - Finished Spring Data repository scanning in 71ms. Found 1 JPA repository interfaces.
+2020-01-01 12:30:17,893 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)

@@ -1,0 +1,29 @@
+#spring:
+##  profiles:
+##    active:  dev
+server:
+  port: 8088
+  servlet:
+    context-path: /luckymoney
+
+#minMoney: 1
+#maxMoney: 999
+#deacription: 最少要发${minMoney}元
+limit:
+  minMoney: 1
+  maxMoney: 999
+  description: 最少要发${limit.minMoney}元,最多要发${limit.maxMoney}元
+
+
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://123.56.25.127:3306/db_luckymoney?characterEncoding=utf-8
+    username: 账号
+    password: 密码
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

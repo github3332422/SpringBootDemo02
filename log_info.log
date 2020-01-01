@@ -1,0 +1,71 @@
+2020-01-01 13:56:12,472 - Starting LuckymoneyApplication on WozkiShude with PID 6936 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 13:56:12,475 - No active profile set, falling back to default profiles: default
+2020-01-01 13:56:13,417 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 13:56:13,494 - Finished Spring Data repository scanning in 67ms. Found 1 JPA repository interfaces.
+2020-01-01 13:56:13,838 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 13:56:14,276 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 13:56:14,285 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 13:56:14,286 - Starting service [Tomcat]
+2020-01-01 13:56:14,287 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 13:56:14,387 - Initializing Spring embedded WebApplicationContext
+2020-01-01 13:56:14,388 - Root WebApplicationContext: initialization completed in 1840 ms
+2020-01-01 13:56:14,638 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 13:56:14,702 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 13:56:14,833 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 13:56:14,926 - HikariPool-1 - Starting...
+2020-01-01 13:56:14,927 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 13:56:15,931 - HikariPool-1 - Start completed.
+2020-01-01 13:56:15,948 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 13:56:16,671 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 13:56:16,678 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 13:56:17,317 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 13:56:17,588 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 13:56:17,684 - Adding welcome page template: index
+2020-01-01 13:56:17,979 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 13:56:18,002 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 13:56:18,004 - Started LuckymoneyApplication in 6.314 seconds (JVM running for 7.577)
+2020-01-01 13:59:35,593 - Starting LuckymoneyApplication on WozkiShude with PID 5272 (F:\Git\luckymoney\target\classes started by mailz in F:\Git\luckymoney)
+2020-01-01 13:59:35,599 - No active profile set, falling back to default profiles: default
+2020-01-01 13:59:36,491 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-01-01 13:59:36,564 - Finished Spring Data repository scanning in 63ms. Found 1 JPA repository interfaces.
+2020-01-01 13:59:36,901 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-01-01 13:59:37,345 - Tomcat initialized with port(s): 8088 (http)
+2020-01-01 13:59:37,354 - Initializing ProtocolHandler ["http-nio-8088"]
+2020-01-01 13:59:37,354 - Starting service [Tomcat]
+2020-01-01 13:59:37,355 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-01 13:59:37,457 - Initializing Spring embedded WebApplicationContext
+2020-01-01 13:59:37,457 - Root WebApplicationContext: initialization completed in 1734 ms
+2020-01-01 13:59:37,745 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-01-01 13:59:37,816 - HHH000412: Hibernate Core {5.4.9.Final}
+2020-01-01 13:59:37,941 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-01-01 13:59:38,048 - HikariPool-1 - Starting...
+2020-01-01 13:59:38,049 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-01 13:59:39,123 - HikariPool-1 - Start completed.
+2020-01-01 13:59:39,146 - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-01-01 13:59:39,893 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-01-01 13:59:39,902 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-01-01 13:59:40,656 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-01 13:59:40,918 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-01 13:59:41,018 - Adding welcome page template: index
+2020-01-01 13:59:41,356 - Starting ProtocolHandler ["http-nio-8088"]
+2020-01-01 13:59:41,377 - Tomcat started on port(s): 8088 (http) with context path '/luckymoney'
+2020-01-01 13:59:41,379 - Started LuckymoneyApplication in 6.623 seconds (JVM running for 7.996)
+2020-01-01 13:59:50,919 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-01 13:59:50,919 - Initializing Servlet 'dispatcherServlet'
+2020-01-01 13:59:50,933 - Completed initialization in 14 ms
+2020-01-01 13:59:50,968 - url=http://127.0.0.1:8088/luckymoney/hello
+2020-01-01 13:59:50,968 - method=GET
+2020-01-01 13:59:50,969 - ip=127.0.0.1
+2020-01-01 13:59:50,971 - class_method=com.example.luckymoney.controller.HelloController.say
+2020-01-01 13:59:50,971 - args={}
+2020-01-01 13:59:50,979 - 
+
+2020-01-01 13:59:50,979 - response=minMoney:1maxMoney:999说明: 最少要发1元,最多要发999元
+2020-01-01 13:59:53,915 - url=http://127.0.0.1:8088/luckymoney/hello
+2020-01-01 13:59:53,915 - method=GET
+2020-01-01 13:59:53,915 - ip=127.0.0.1
+2020-01-01 13:59:53,915 - class_method=com.example.luckymoney.controller.HelloController.say
+2020-01-01 13:59:53,915 - args={}
+2020-01-01 13:59:53,915 - 
+
+2020-01-01 13:59:53,915 - response=minMoney:1maxMoney:999说明: 最少要发1元,最多要发999元
